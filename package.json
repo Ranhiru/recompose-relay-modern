@@ -1,6 +1,6 @@
 {
   "name": "recompose-relay-modern",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Recompose helpers for Relay Modern.",
   "main": "./lib/index.js",
   "scripts": {
